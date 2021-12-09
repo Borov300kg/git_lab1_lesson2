@@ -1,0 +1,2 @@
+в origin/demo есть два коммита, которых нет в master
+в master есть 3 (5 с merge) коммитов, которых нет в origin/demo
